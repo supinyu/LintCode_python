@@ -6,9 +6,9 @@ class Solution:
     def findPeak(self, A):
         # write your code here
         if A == None or len(A) < 1:
-            return -1 
+            return -1
         start = 0
-        end = len(A) - 1 
+        end = len(A) - 1
         while start + 1 < end:
             mid = start + (end - start)//2
             if A[mid] >  A[mid - 1]:

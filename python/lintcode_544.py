@@ -30,9 +30,9 @@ class Solution:
             else:
                 break
     def heapify(self, nums, index , heapsize):
-        left = 2 * index + 1 
-        right = 2 * index + 2 
-        smallest = index 
+        left = 2 * index + 1
+        right = 2 * index + 2
+        smallest = index
         while left < heapsize:
             if nums[left] < nums[index]:
                 smallest = left

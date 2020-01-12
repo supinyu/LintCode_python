@@ -22,4 +22,13 @@ LintCode|1699 | 建庙 | 二分法的变形 |
 
 平台|编号 | 题目 | 刷题情况
 -|-|-|-
+LintCode|93|平衡二叉树|LeetCodeCn 110|
+LintCode|97|二叉树的最大深度||
+LeetCodeCn|112|路径总和||
+LintCode|155|二叉树的最小深度||
+LintCode|175|翻转二叉树|LeetCodeCn 226|
+LeetCodeCn|100|相同的树||
+LeetCodeCn|222| 完全二叉树的节点个数||
+LeetCodeCn|404|左叶子之和||
+LintCode|1360|对称树|LeetCodeCn 101|
 LintCode|1704 | 二叉搜索树的范围和 | 重点考察递归的调用 |
